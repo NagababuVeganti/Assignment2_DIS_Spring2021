@@ -1,0 +1,13 @@
+C:\Users\soma yeshwanth\Source\Repos\Assignment2_DIS_Nagababu\Assignment2_DIS_Spring2021\bin\Debug\netcoreapp3.1\Assignment2_DIS_Spring2021.exe
+C:\Users\soma yeshwanth\Source\Repos\Assignment2_DIS_Nagababu\Assignment2_DIS_Spring2021\bin\Debug\netcoreapp3.1\Assignment2_DIS_Spring2021.deps.json
+C:\Users\soma yeshwanth\Source\Repos\Assignment2_DIS_Nagababu\Assignment2_DIS_Spring2021\bin\Debug\netcoreapp3.1\Assignment2_DIS_Spring2021.runtimeconfig.json
+C:\Users\soma yeshwanth\Source\Repos\Assignment2_DIS_Nagababu\Assignment2_DIS_Spring2021\bin\Debug\netcoreapp3.1\Assignment2_DIS_Spring2021.runtimeconfig.dev.json
+C:\Users\soma yeshwanth\Source\Repos\Assignment2_DIS_Nagababu\Assignment2_DIS_Spring2021\bin\Debug\netcoreapp3.1\Assignment2_DIS_Spring2021.dll
+C:\Users\soma yeshwanth\Source\Repos\Assignment2_DIS_Nagababu\Assignment2_DIS_Spring2021\bin\Debug\netcoreapp3.1\Assignment2_DIS_Spring2021.pdb
+C:\Users\soma yeshwanth\Source\Repos\Assignment2_DIS_Nagababu\Assignment2_DIS_Spring2021\obj\Debug\netcoreapp3.1\Assignment2_DIS_Spring2021.csprojAssemblyReference.cache
+C:\Users\soma yeshwanth\Source\Repos\Assignment2_DIS_Nagababu\Assignment2_DIS_Spring2021\obj\Debug\netcoreapp3.1\Assignment2_DIS_Spring2021.AssemblyInfoInputs.cache
+C:\Users\soma yeshwanth\Source\Repos\Assignment2_DIS_Nagababu\Assignment2_DIS_Spring2021\obj\Debug\netcoreapp3.1\Assignment2_DIS_Spring2021.AssemblyInfo.cs
+C:\Users\soma yeshwanth\Source\Repos\Assignment2_DIS_Nagababu\Assignment2_DIS_Spring2021\obj\Debug\netcoreapp3.1\Assignment2_DIS_Spring2021.csproj.CoreCompileInputs.cache
+C:\Users\soma yeshwanth\Source\Repos\Assignment2_DIS_Nagababu\Assignment2_DIS_Spring2021\obj\Debug\netcoreapp3.1\Assignment2_DIS_Spring2021.dll
+C:\Users\soma yeshwanth\Source\Repos\Assignment2_DIS_Nagababu\Assignment2_DIS_Spring2021\obj\Debug\netcoreapp3.1\Assignment2_DIS_Spring2021.pdb
+C:\Users\soma yeshwanth\Source\Repos\Assignment2_DIS_Nagababu\Assignment2_DIS_Spring2021\obj\Debug\netcoreapp3.1\Assignment2_DIS_Spring2021.genruntimeconfig.cache
